@@ -1,6 +1,6 @@
 ### My Contribution Snake:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meahpy/meahpy/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" width="100%" />
+  <img src="https://github.com/Meahpy/Meahpy/blob/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
