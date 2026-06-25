@@ -1,3 +1,8 @@
+### My Contribution Snake:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meahpy/meahpy/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" width="100%" />
+</p>
+---
 <h1 align="center">Hi 👋, I'm El</h1>
 <h3 align="center">Bridging the gap between intelligent algorithms and decentralized tech.</h3>
 
@@ -14,7 +19,7 @@
   <a href="https://medium.com/@meahpy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meahpy" height="30" width="40" /></a>
   <a href="https://discord.gg/el__04" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="el__04" height="30" width="40" /></a>
 </p>
-
+---
 ### Languages and Tools:
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -39,7 +44,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-
+---
 ### My GitHub Analytics:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meahpy&show_icons=true&theme=onedark&locale=en" alt="meahpy" width="495" />
