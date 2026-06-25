@@ -46,9 +46,13 @@
 ---
 
 ### My GitHub Analytics:
+---
+
+### My GitHub Analytics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meahpy&show_icons=true&theme=onedark&locale=en&layout=compact" alt="meahpy" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api?username=meahpy&show_icons=true&theme=onedark&locale=en" alt="meahpy" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meahpy&show_icons=true&theme=onedark&locale=en" alt="meahpy" width="495" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meahpy&theme=onedark" alt="meahpy" width="830" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meahpy&show_icons=true&theme=onedark&locale=en" alt="meahpy" width="495" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meahpy&theme=onedark" alt="meahpy" width="495" />
 </p>
