@@ -51,11 +51,3 @@
 
 ---
 
-### My GitHub Analytics:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meahpy&show_icons=true&theme=onedark&locale=en" alt="meahpy" width="495" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=meahpy&show_icons=true&theme=onedark&locale=en" alt="meahpy" width="495" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meahpy&theme=onedark" alt="meahpy" width="495" />
-</p>
